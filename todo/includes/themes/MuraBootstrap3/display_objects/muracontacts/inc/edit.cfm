@@ -117,6 +117,15 @@
     <a class="btn btn-default" href="./?mcaction=list"><i class="fa fa-ban"></i></a>
   </form>
 
+  <!--- Addresses --->
+    <cfif !contactBean.getIsNew()>
+      <div class="row">
+        <div class="col-md-12">
+          <label>Addresses</label>
+        </div>
+      </div>
+    </cfif>
+
   <!--- Phone Number(s) --->
     <cfif !contactBean.getIsNew()>
       <div class="row">

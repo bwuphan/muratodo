@@ -3,6 +3,7 @@
 	<body id="#$.getTopID()#" class="depth-#$.content('depth')# #$.createCSSHook($.content('menuTitle'))#">
 		<cfinclude template="inc/navbar.cfm" />
 		<div class="container">
+			<input type="text"
 			<div class="row">
 				<aside class="col-lg-3 col-md-3 col-sm-4 col-xs-12 sidebar">
 					#$.dspObjects(1)#

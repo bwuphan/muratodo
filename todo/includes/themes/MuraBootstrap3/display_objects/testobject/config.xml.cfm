@@ -1,0 +1,1 @@
+<mura name="My Test Object" contenttypes="*"></mura>

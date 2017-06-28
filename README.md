@@ -1,3 +1,5 @@
+Copied from https://github.com/blueriver/MuraCMS credit to Blue River Interactive Group
+
 # MuraCMS
 [![Build Status](https://travis-ci.org/blueriver/MuraCMS.svg?branch=master "master")](https://travis-ci.org/blueriver/MuraCMS)
 
